@@ -1,0 +1,31 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "C:\\Users\\Nate\\.espressif\\tools\\xtensa-esp32-elf\\esp-2020r3-8.4.0\\xtensa-esp32-elf\\bin;C:\\Users\\Nate\\.espressif\\tools\\xtensa-esp32s2-elf\\esp-2020r3-8.4.0\\xtensa-esp32s2-elf\\bin;C:\\Users\\Nate\\.espressif\\tools\\xtensa-esp32s3-elf\\esp-2020r3-8.4.0\\xtensa-esp32s3-elf\\bin;C:\\Users\\Nate\\.espressif\\tools\\riscv32-esp-elf\\1.24.0.123_64eb9ff-8.4.0\\riscv32-esp-elf\\bin;C:\\Users\\Nate\\.espressif\\tools\\esp32ulp-elf\\2.28.51-esp-20191205\\esp32ulp-elf-binutils\\bin;C:\\Users\\Nate\\.espressif\\tools\\esp32s2ulp-elf\\2.28.51-esp-20191205\\esp32s2ulp-elf-binutils\\bin;C:\\Users\\Nate\\.espressif\\tools\\cmake\\3.16.4\\bin;C:\\Users\\Nate\\.espressif\\tools\\openocd-esp32\\v0.10.0-esp32-20210401\\openocd-esp32\\bin;C:\\Users\\Nate\\.espressif\\tools\\ninja\\1.10.2;C:\\Users\\Nate\\.espressif\\tools\\idf-exe\\1.0.1;C:\\Users\\Nate\\.espressif\\tools\\ccache\\3.7;C:\\Users\\Nate\\.espressif\\tools\\dfu-util\\0.9\\dfu-util-0.9-win64;C:\\Users\\Nate\\.espressif\\tools\\idf-python-wheels\\idf4.3_py3.9_2021-01-07",
+    "idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"C:\\\\Users\\\\Nate\\\\.espressif\\\\tools\\\\openocd-esp32\\\\v0.10.0-esp32-20210401/openocd-esp32/share/openocd/scripts\",\"IDF_CCACHE_ENABLE\":\"1\"}",
+    "idf.espIdfPathWin": "C:\\Users\\Nate\\esp\\esp-idf",
+    "idf.pythonBinPathWin": "C:\\Users\\Nate\\.espressif\\python_env\\idf4.3_py3.8_env\\Scripts\\python.exe",
+    "idf.flashType": "JTAG",
+    "idf.portWin": "COM5",
+    "files.associations": {
+        "freertos.h": "c",
+        "esp_log.h": "c",
+        "gpio.h": "c",
+        "adafruit_ili9341_fast_as.h": "c",
+        "*.ipp": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "lcd_lib.h": "c",
+        "sstream": "c",
+        "lcd_fonts.h": "c",
+        "random": "c",
+        "*.tcc": "cpp",
+        "tuple": "cpp",
+        "lcd_lib_ssd1306.h": "c",
+        "esp_err.h": "c",
+        "i2c.h": "c",
+        "task.h": "c",
+        "sdkconfig.h": "c"
+    }
+}

@@ -3,7 +3,6 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := app-template
+PROJECT_NAME := main
 
 include $(IDF_PATH)/make/project.mk
-
