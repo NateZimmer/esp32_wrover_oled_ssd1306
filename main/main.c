@@ -15,8 +15,6 @@ void app_main(void)
 	vTaskDelay(1000/portTICK_PERIOD_MS);
 	
 	ssd1306_DrawText8x8("Hurro", 50, 2);
-	// ssd1306_DrawText6x8("Hurro", 30, 4);
 	ssd1306_DrawText12x16("Hurro", 0, 4);
-	
 
 }
