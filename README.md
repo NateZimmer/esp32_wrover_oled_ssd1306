@@ -25,6 +25,8 @@ void app_main(void)
 }
 ```
 
+Code is formated such that the screen lib is a component 
+
 
 ## Borrows from:  
 
