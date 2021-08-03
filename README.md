@@ -31,3 +31,5 @@ Code is formated such that the screen lib is a component
 ## Borrows from:  
 
 https://github.com/yanbe/ssd1306-esp-idf-i2c/blob/master/main/main.c
+https://github.com/MartyMacGyver/ESP32_Adafruit_ILI9341
+https://github.com/lexus2k/ssd1306
